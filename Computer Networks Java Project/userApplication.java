@@ -15,7 +15,7 @@ public class userApplication {
     }
 
     public static void main(String[] args) throws IOException {
-
+        //All codes come from http://ithaki.eng.auth.gr/netlab/action.php
         String echoCode = "E8831\r";
         String imageErrorFreeCode = "M7442\r";
         String imageErrorCode = "G3400\r";
